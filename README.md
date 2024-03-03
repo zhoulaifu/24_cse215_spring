@@ -8,7 +8,7 @@ This course is presented by the Computer Science Department at SUNY Korea. It is
 The course materials, available in this public repository, will be added to over the course of the semester. We'll be adapting materials previously used at SUNY Korea and Stony Brook University for our curriculum.
 
 
-<a id="org6a7ec5b"></a>
+
 
 # Course objectives
 
@@ -18,7 +18,7 @@ By the end of the course, students are expected to have:
 - The preliminary capability to reason with precision and prove certain theorems.
 - A basic understanding of mathematical concepts like sequences, functions, and relations.
 
-<a id="orgb048669"></a>
+
 
 # Prerequisites
 
@@ -33,22 +33,14 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 <a id="org1a0f91c"></a>
 
-# Overall Schedule (All time is on Korean time zone)
+# Course overall schedule
 
-Lectures:  MO, WE 9:00  - 10:30, at C107
-
-Recitation: MO 12:30  - 13:25, at C107
-
-Homework is announced on Wednesday, and due time is next Wednesday 23:59 KST  
-
-Office hours: MO, WE 13:30  - 14:30, at C107
-
-
-These are the office hours during which students can expect to find the TAs available for assistance.
-
-Final: Between 2023-06-07 and 2023-06-13, at C107
-
-# TA Office hours
+- **Lectures:** Mondays and Wednesdays, 9:00 AM - 10:30 AM, Room C107
+- **Recitation:** Monday, 12:30 PM - 1:25 PM, Room C107
+- **Homework:** Announced every Wednesday, with submissions due by the following Wednesday at 11:59 PM KST.
+- **Office Hours:** Mondays and Wednesdays, 1:30 PM - 2:30 PM, Room C107.
+- **Final Exam:** Scheduled on June 10 Monday, 9:00 AM - 11:30 AM in Room C107. This information was deciphered from [SUNY Korea's website](https://www.sunykorea.ac.kr/_prog/pdf_viewer/view_publication.php?id=24840468b04cccf05101b1192cc23b46).
+# TA office hours
 
 At CS Lobby
 
@@ -68,7 +60,6 @@ At CS Lobby
 <https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09>
 
 
-<a id="org20bf8ba"></a>
 
 # Numerical Grades
 
@@ -89,7 +80,6 @@ def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
 Assignments submitted after the deadline are typically not acceptable. Should you have a valid reason for a late submission, it is essential to communicate with the course instructor promptly, providing all necessary supporting documents. Please note, once solutions to the homework exercises have been disclosed, no submissions can be accepted under any circumstances.
 
 
-<a id="orgefb96c0"></a>
 
 
 
