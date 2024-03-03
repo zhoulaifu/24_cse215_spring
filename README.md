@@ -43,9 +43,25 @@ Homework is announced on Wednesday, and due time is next Wednesday 23:59 KST
 
 Office hours: MO, WE 13:30  - 14:30, at C107
 
-TA Office hours: TBA, at CS Lobby
+
+These are the office hours during which students can expect to find the TAs available for assistance.
 
 Final: Between 2023-06-07 and 2023-06-13, at C107
+
+# TA Office hours
+
+At CS Lobby
+
+**Jinho Kang:**
+- Monday: 7pm – 9pm
+- Tuesday: 7pm – 10pm
+- Wednesday: 7pm – 10pm
+
+**Gyujeong Park:**
+- Monday: 12pm – 1pm, 5pm – 6:30pm
+- Tuesday: 3:30pm – 5pm
+- Wednesday: 12pm – 1pm, 3pm – 5pm
+- Thursday: 3:30pm – 5pm
 
 # Zoom (just in case):
 
@@ -87,11 +103,6 @@ Absolute grading will be applied.
 Zhoulai Fu \<zhoulai dot fu at sunykorea.ac.kr\>  or  \<zhoulai dot fu at stonybrook.edu\>
 
 
-<a id="orgda07346"></a>
-
-# Teaching assistant
-
-TBA
 
 # Disability Support Services (DSS) Statement
 
@@ -100,14 +111,13 @@ If you have a physical, psychological, medical or learning disability that may i
 Students who require assistance during emergency evacuation are encouraged to discuss their needs with instructors and the One-Stop Service Center.
 
 
-<a id="org1af6e2f"></a>
+
 
 # Academic integrity
 
 Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person's work as your own is always wrong. Faculty members are required to report any suspected instances of academic dishonesty to the Academic Judiciary Committee or the Department of Academic Affairs, Campus Building A, Room 201, (032) 626-1121.
 
 
-<a id="org0aaca55"></a>
 
 # Critical incident management
 
